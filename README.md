@@ -3,6 +3,7 @@
 <li><a href='https://danil251.github.io/dice_test'>Demo</a> | <a href='https://github.com/danil251/dice_test'>Code</a> <span>Throw the dice</span></li>
 <li><a href='https://danil251.github.io/test_list/'>Demo</a> | <a href='https://github.com/danil251/test_list'>Code</a> <span>List</span></li>
 <ul>
+  
 Старые тестовые задания 2021 (React/Redux): <br/>
 <ul>
 <li><a href='https://danil251.github.io/Weather'>Demo</a> | <a href='https://github.com/danil251/Weather'>Code</a> <span> Weather forecast</span></li>
